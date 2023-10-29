@@ -1,2 +1,2 @@
 Hello, World!
-This is branch feature1
+This is branches feature1 and feature2
